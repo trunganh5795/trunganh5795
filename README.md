@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Trung And. Glad you came.
+I'm Trung Anh. Glad you came.
 ## My skills 🚀
 
 <div align="center">
