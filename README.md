@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 I'm Trung Anh. Glad you came.
 ## My skills 🚀
@@ -16,3 +17,5 @@ I'm Trung Anh. Glad you came.
    <a
 </div>
 
+## 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trunganh5795&theme=merko)
